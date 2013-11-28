@@ -11,8 +11,9 @@
 class_name: WebGuy
 modules:
     enabled:
-        - PhpBrowser
+        #- PhpBrowser
         - WebHelper
     config:
-        PhpBrowser:
+        WebHelper:
             url: 'http://baidu.com'
+

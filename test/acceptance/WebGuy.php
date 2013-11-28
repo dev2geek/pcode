@@ -5,7 +5,6 @@
 
 
 use \Codeception\Maybe;
-use Codeception\Module\PhpBrowser;
 use Codeception\Module\WebHelper;
 
 /**
